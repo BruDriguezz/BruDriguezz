@@ -37,7 +37,7 @@ Também conhecido como trackerpy, este projeto é uma solução elegante e efica
 ```py
 
 @track()
-class Pessoa(objeect):
+class Pessoa(object):
   def __init__(
       self,
       nome: str
