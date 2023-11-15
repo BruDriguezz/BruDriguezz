@@ -1,4 +1,4 @@
-### [🏴󠁧󠁢󠁥󠁮󠁧󠁿 If you speak English, read this!](www.google.com)
+### [🏴󠁧󠁢󠁥󠁮󠁧󠁿 If you speak English, read this!](https://github.com/BruDriguezz/BruDriguezz/blob/master/README_ENG.md)
 --------------------
 # 👋 Olá, tudo bem?
 
@@ -37,7 +37,7 @@ Também conhecido como trackerpy, este projeto é uma solução elegante e efica
 ```py
 
 @track()
-class Pessoa(objeect):
+class Pessoa(object):
   def __init__(
       self,
       nome: str
