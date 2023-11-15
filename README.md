@@ -1,4 +1,4 @@
-### [🏴󠁧󠁢󠁥󠁮󠁧󠁿 If you speak English, read this!](www.google.com)
+### [🏴󠁧󠁢󠁥󠁮󠁧󠁿 If you speak English, read this!](https://github.com/BruDriguezz/BruDriguezz/blob/master/README_ENG.md)
 --------------------
 # 👋 Olá, tudo bem?
 
