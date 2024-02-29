@@ -3,7 +3,7 @@
 # 👋 Olá, tudo bem?
 
 ## Quem sou eu?
-Me chamo Bruno Rodrigues dos Santos, estudante do 2º período de Análise e Desenvolvimento de Sistemas no [Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco](https://portal.ifpe.edu.br/noticias/tecnologia-em-analise-e-desenvolvimento-de-sistemas-do-ifpe-paulista-recebe-nota-maxima/). 
+Me chamo Bruno Rodrigues dos Santos, estudante do 3º período de Análise e Desenvolvimento de Sistemas no [Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco](https://portal.ifpe.edu.br/noticias/tecnologia-em-analise-e-desenvolvimento-de-sistemas-do-ifpe-paulista-recebe-nota-maxima/). 
 <br> Apaixonado por tecnologia e computação, sou um desenvolvedor hobbista com experiência em diversas áreas; desde frontend com React/Svelte até desenvolvimento de sistemas com Rust e Python. Me considero um profissional flexível e entusiasmado para aprender sobre novas tecnologias e experiências relacionadas ao desenvolvimento de software!
 <br> No momento, estou focado na área de Engenharia de Dados, dedicando meu tempo aos meus projetos para absorver o máximo de conhecimento possível! :)
 
